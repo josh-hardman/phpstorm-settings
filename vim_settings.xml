@@ -1,0 +1,82 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" timestamp="1471031902933">
+        <mark key="b" line="64" column="37" />
+        <mark key="t" line="64" column="37" />
+        <mark key="'" line="237" column="24" />
+        <mark key="[" line="255" column="16" />
+        <mark key="l" line="58" column="0" />
+        <mark key="m" line="78" column="13" />
+        <mark key="]" line="255" column="16" />
+        <mark key="." line="255" column="16" />
+        <mark key="^" line="315" column="6" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="60" column="0" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="64" column="35" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="78" column="8" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="37" column="16" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="256" column="0" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="276" column="8" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="278" column="0" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="230" column="88" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="262" column="37" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="284" column="0" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="263" column="20" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="217" column="12" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="251" column="20" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="215" column="16" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="236" column="12" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="264" column="16" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="275" column="8" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="316" column="6" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="237" column="24" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQllaC5iZWdpbl9kYXRldGltZSBCRVRXRUVOIFwnJyAuICRzdHJTdGFydERhdGUgLiAnXCc6OmRhdGUgLSBJTlRFUlZBTCBcJzEgd2Vla1wnIEFORCBcJycgLiAkc3RyRW5kRGF0ZSAuICdcJzo6ZGF0ZSArIElOVEVSVkFMIFwnMSB3ZWVrXCcgCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">U0VMRUNUCgkJCSAgaWQsCgkJCSAgZW1wbG95ZWVfaWQsCgkJCSAgc3RhdHVzLAoJCQkgIGVtcGxveWVlX2hvdXJfdHlwZV9pZCwJCQkgIAoJCQkgIGJlZ2luX2RhdGV0aW1lLAoJCQkgIGVuZF9kYXRldGltZSwKCQkJICBkYXRlCgkJCUZST00KCQkJICAoCgkJCQlTRUxFQ1QKCQkJCSAgaWQsCgkJCQkgIGVtcGxveWVlX2lkLAoJCQkJICBzdGF0dXMsCgkJCQkgIGVtcGxveWVlX2hvdXJfdHlwZV9pZCwKCQkJCSAgYmVnaW5fZGF0ZXRpbWUsCgkJCQkgIENBU0UgV0hFTiBlbmRfZGF0ZXRpbWUgSVMgTlVMTCBBTkQgY29tYmluZV93aXRoX25leHQgPSAxIFRIRU4gbGVhZCggZW5kX2RhdGV0aW1lLCAxICkgT1ZFUiggUEFSVElUSU9OIEJZIHN1Yi5lbXBsb3llZV9pZCBPUkRFUiBCWSBzdWIuaWQgKSBFTFNFIGVuZF9kYXRldGltZSBFTkQgQVMgZW5kX2RhdGV0aW1lLAoJCQkJICBkYXRlCgkJCQlGUk9NICgKCQkJCSAgU0VMRUNUCgkJCQkJZWguaWQsCgkJCQkJZWguZW1wbG95ZWVfaWQsCgkJCQkJZWguZW1wbG95ZWVfaG91cl90eXBlX2lkLAoJCQkJCUNBU0UgV0hFTiBsYWcgKCBlaC5lbmRfZGF0ZXRpbWUsIDEgKSBPVkVSICggUEFSVElUSU9OIEJZIGVoLmVtcGxveWVlX2lkIE9SREVSIEJZIGVoLmlkICkgKyBJTlRFUlZBTCBcJzMgbWludXRlc1wnID49IGVoLmJlZ2luX2RhdGV0aW1lIFRIRU4gTlVMTCBFTFNFIGVoLmJlZ2luX2RhdGV0aW1lIEVORCBBUyBiZWdpbl9kYXRldGltZSwKCQkJCQlDQVNFIFdIRU4gbGVhZCAoIGVoLmJlZ2luX2RhdGV0aW1lLCAxICkgT1ZFUiAoIFBBUlRJVElPTiBCWSBlaC5lbXBsb3llZV9pZCBPUkRFUiBCWSBlaC5pZCApIC0gSU5URVJWQUwgXCczIG1pbnV0ZXNcJyA8PSBlaC5lbmRfZGF0ZXRpbWUgVEhFTiBOVUxMIEVMU0UgZWguZW5kX2RhdGV0aW1lIEVORCBBUyBlbmRfZGF0ZXRpbWUsCgkJCQkJQ0FTRSBXSEVOIGxlYWQgKCBlaC5iZWdpbl9kYXRldGltZSwgMSApIE9WRVIgKCBQQVJUSVRJT04gQlkgZWguZW1wbG95ZWVfaWQgT1JERVIgQlkgZWguaWQgKSAtIElOVEVSVkFMIFwnMyBtaW51dGVzXCcgPD0gZWguZW5kX2RhdGV0aW1lIFRIRU4gMSBFTFNFIDAgRU5EIEFTIGNvbWJpbmVfd2l0aF9uZXh0LAoJCQkJCWVoLmRhdGUsCgkJCQkJZWh0Lm5hbWUgYXMgc3RhdHVzCgkJCQkgIEZST00KCQkJCQllbXBsb3llZV9ob3VycyBlaAoJCQkJCUpPSU4gZW1wbG95ZWVfaG91cl90eXBlcyBlaHQgT04gZWh0LmlkID0gZWguZW1wbG95ZWVfaG91cl90eXBlX2lkCgkJCQkgIFdIRVJFCgkJCQkgIAoJCQkJICBPUkRFUiBCWQoJCQkJCWVoLmlkCgkJCQkpIHN1YgoJCQkJV0hFUkUKCQkJCSAgQ09BTEVTQ0UoIHN1Yi5iZWdpbl9kYXRldGltZSwgc3ViLmVuZF9kYXRldGltZSApIElTIE5PVCBOVUxMCgkJCSAgKSBzdWIyCgkJCVdIRVJFCgkJCSAgc3ViMi5iZWdpbl9kYXRldGltZSBJUyBOT1QgTlVMTAoJCQlPUkRFUiBCWQoJCQkgIGlkOw==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQllaC5iZWdpbl9kYXRldGltZSBCRVRXRUVOIFwnJyAuICRzdHJTdGFydERhdGUgLiAnXCc6OmRhdGUgLSBJTlRFUlZBTCBcJzEgd2Vla1wnIEFORCBcJycgLiAkc3RyRW5kRGF0ZSAuICdcJzo6ZGF0ZSArIElOVEVSVkFMIFwnMSB3ZWVrXCcgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkkb2JqVGl0bGVDb21wb25lbnQtPnNldFRpdGxlKCAnRGFpbHkgSURJIFRpbWVjYXJkcycgKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>10</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>0</entry>
+        <entry>10</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

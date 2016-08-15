@@ -1,0 +1,7 @@
+<application>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/usr/local/zend/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+</application>
