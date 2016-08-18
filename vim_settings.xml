@@ -1,13 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" timestamp="1471487509680">
-        <mark key="[" line="72" column="1" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="73" column="0" />
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" timestamp="1471487891485">
+        <mark key="'" line="94" column="1" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="38" column="1" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" timestamp="1471031902933">
         <mark key="b" line="64" column="37" />
@@ -42,32 +43,54 @@
       <jump line="275" column="8" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
       <jump line="316" column="6" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
       <jump line="237" column="24" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="45" column="19" filename="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" />
+      <jump line="87" column="1" filename="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.centered{
-    display: block;
+        <text>.slideshow-container {
+    width: 75%;
+    height: 800px;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
 }</text>
       </register>
       <register name="-" type="4">
-        <text>100px</text>
+        <text>20px</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQllaC5iZWdpbl9kYXRldGltZSBCRVRXRUVOIFwnJyAuICRzdHJTdGFydERhdGUgLiAnXCc6OmRhdGUgLSBJTlRFUlZBTCBcJzEgd2Vla1wnIEFORCBcJycgLiAkc3RyRW5kRGF0ZSAuICdcJzo6ZGF0ZSArIElOVEVSVkFMIFwnMSB3ZWVrXCcgCg==</text>
+      <register name="/" type="4">
+        <text>#slideshow</text>
       </register>
-      <register name="1" type="4">
+      <register name="0" type="4">
+        <text>.slideshow-container {
+    width: 75%;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbjogNTBweCBhdXRvOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>.centered{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>*!*Centered grid*!*/
 /*!* centered columns styles *!*/
 /*.row-centered {*/
@@ -161,34 +184,31 @@
     /*vertical-align:middle;*/
 /*}*/</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0YWJsZS1sYXlvdXQ6IGF1dG87CiAgICAgICAgZmxvYXQ6IG5vbmU7CiAgICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgYXV0bzsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgYXV0bzsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">U0VMRUNUCgkJCSAgaWQsCgkJCSAgZW1wbG95ZWVfaWQsCgkJCSAgc3RhdHVzLAoJCQkgIGVtcGxveWVlX2hvdXJfdHlwZV9pZCwJCQkgIAoJCQkgIGJlZ2luX2RhdGV0aW1lLAoJCQkgIGVuZF9kYXRldGltZSwKCQkJICBkYXRlCgkJCUZST00KCQkJICAoCgkJCQlTRUxFQ1QKCQkJCSAgaWQsCgkJCQkgIGVtcGxveWVlX2lkLAoJCQkJICBzdGF0dXMsCgkJCQkgIGVtcGxveWVlX2hvdXJfdHlwZV9pZCwKCQkJCSAgYmVnaW5fZGF0ZXRpbWUsCgkJCQkgIENBU0UgV0hFTiBlbmRfZGF0ZXRpbWUgSVMgTlVMTCBBTkQgY29tYmluZV93aXRoX25leHQgPSAxIFRIRU4gbGVhZCggZW5kX2RhdGV0aW1lLCAxICkgT1ZFUiggUEFSVElUSU9OIEJZIHN1Yi5lbXBsb3llZV9pZCBPUkRFUiBCWSBzdWIuaWQgKSBFTFNFIGVuZF9kYXRldGltZSBFTkQgQVMgZW5kX2RhdGV0aW1lLAoJCQkJICBkYXRlCgkJCQlGUk9NICgKCQkJCSAgU0VMRUNUCgkJCQkJZWguaWQsCgkJCQkJZWguZW1wbG95ZWVfaWQsCgkJCQkJZWguZW1wbG95ZWVfaG91cl90eXBlX2lkLAoJCQkJCUNBU0UgV0hFTiBsYWcgKCBlaC5lbmRfZGF0ZXRpbWUsIDEgKSBPVkVSICggUEFSVElUSU9OIEJZIGVoLmVtcGxveWVlX2lkIE9SREVSIEJZIGVoLmlkICkgKyBJTlRFUlZBTCBcJzMgbWludXRlc1wnID49IGVoLmJlZ2luX2RhdGV0aW1lIFRIRU4gTlVMTCBFTFNFIGVoLmJlZ2luX2RhdGV0aW1lIEVORCBBUyBiZWdpbl9kYXRldGltZSwKCQkJCQlDQVNFIFdIRU4gbGVhZCAoIGVoLmJlZ2luX2RhdGV0aW1lLCAxICkgT1ZFUiAoIFBBUlRJVElPTiBCWSBlaC5lbXBsb3llZV9pZCBPUkRFUiBCWSBlaC5pZCApIC0gSU5URVJWQUwgXCczIG1pbnV0ZXNcJyA8PSBlaC5lbmRfZGF0ZXRpbWUgVEhFTiBOVUxMIEVMU0UgZWguZW5kX2RhdGV0aW1lIEVORCBBUyBlbmRfZGF0ZXRpbWUsCgkJCQkJQ0FTRSBXSEVOIGxlYWQgKCBlaC5iZWdpbl9kYXRldGltZSwgMSApIE9WRVIgKCBQQVJUSVRJT04gQlkgZWguZW1wbG95ZWVfaWQgT1JERVIgQlkgZWguaWQgKSAtIElOVEVSVkFMIFwnMyBtaW51dGVzXCcgPD0gZWguZW5kX2RhdGV0aW1lIFRIRU4gMSBFTFNFIDAgRU5EIEFTIGNvbWJpbmVfd2l0aF9uZXh0LAoJCQkJCWVoLmRhdGUsCgkJCQkJZWh0Lm5hbWUgYXMgc3RhdHVzCgkJCQkgIEZST00KCQkJCQllbXBsb3llZV9ob3VycyBlaAoJCQkJCUpPSU4gZW1wbG95ZWVfaG91cl90eXBlcyBlaHQgT04gZWh0LmlkID0gZWguZW1wbG95ZWVfaG91cl90eXBlX2lkCgkJCQkgIFdIRVJFCgkJCQkgIAoJCQkJICBPUkRFUiBCWQoJCQkJCWVoLmlkCgkJCQkpIHN1YgoJCQkJV0hFUkUKCQkJCSAgQ09BTEVTQ0UoIHN1Yi5iZWdpbl9kYXRldGltZSwgc3ViLmVuZF9kYXRldGltZSApIElTIE5PVCBOVUxMCgkJCSAgKSBzdWIyCgkJCVdIRVJFCgkJCSAgc3ViMi5iZWdpbl9kYXRldGltZSBJUyBOT1QgTlVMTAoJCQlPUkRFUiBCWQoJCQkgIGlkOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQllaC5iZWdpbl9kYXRldGltZSBCRVRXRUVOIFwnJyAuICRzdHJTdGFydERhdGUgLiAnXCc6OmRhdGUgLSBJTlRFUlZBTCBcJzEgd2Vla1wnIEFORCBcJycgLiAkc3RyRW5kRGF0ZSAuICdcJzo6ZGF0ZSArIElOVEVSVkFMIFwnMSB3ZWVrXCcgCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZTsK</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>#slideshow</last-search>
+      <last-offset />
+      <last-pattern>#slideshow</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>slideshow</entry>
+        <entry>#slideshow</entry>
+      </history-search>
       <history-cmd>
         <entry>0</entry>
         <entry>10</entry>
