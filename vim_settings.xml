@@ -10,6 +10,12 @@
         <mark key="." line="32" column="4" />
         <mark key="^" line="32" column="3" />
       </file>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/welcome.blade.php" timestamp="1471574952232">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+      </file>
       <file name="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" timestamp="1471031902933">
         <mark key="b" line="64" column="37" />
         <mark key="t" line="64" column="37" />
@@ -48,16 +54,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.slideshow-container {
-    width: 75%;
-    height: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    overflow: hidden;
-}</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>20px</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>#slideshow</text>
