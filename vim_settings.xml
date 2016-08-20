@@ -3,12 +3,17 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" timestamp="1471487891485">
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" timestamp="1471660728023">
         <mark key="'" line="94" column="1" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="38" column="1" />
-        <mark key="." line="32" column="4" />
+        <mark key="[" line="167" column="15" />
+        <mark key="]" line="167" column="15" />
+        <mark key="." line="167" column="15" />
         <mark key="^" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/navbar.blade.php" timestamp="1471660684108">
+        <mark key="[" line="30" column="100" />
+        <mark key="]" line="30" column="104" />
+        <mark key="." line="30" column="104" />
       </file>
       <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/welcome.blade.php" timestamp="1471574952232">
         <mark key="[" line="23" column="0" />
@@ -54,10 +59,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>medium</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>medium</text>
       </register>
       <register name="/" type="4">
         <text>#slideshow</text>
@@ -194,7 +199,7 @@
         <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>10</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -212,6 +217,7 @@
       <history-cmd>
         <entry>0</entry>
         <entry>10</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
