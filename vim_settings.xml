@@ -10,6 +10,11 @@
         <mark key="." line="167" column="15" />
         <mark key="^" line="32" column="3" />
       </file>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/portfolio_category.blade.php" timestamp="1471667395933">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/portfolio.blade.php" timestamp="1471664139044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="27" column="4" />
@@ -69,10 +74,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ClJvdXRlOjpnZXQoJy9wb3J0Zm9saW8nLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gdmlldygncG9ydGZvbGlvJyk7Cn0pOw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>medium</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>#slideshow</text>
@@ -81,25 +86,34 @@
         <text encoding="base64">ClJvdXRlOjpnZXQoJy9wb3J0Zm9saW8nLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gdmlldygncG9ydGZvbGlvJyk7Cn0pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogNTBweCBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+T3RoZXJzPC9wPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+RmFtaWx5PC9wPgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+RW5nYWdlbWVudHM8L3A+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbjogNTBweCBhdXRvOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>.centered{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>*!*Centered grid*!*/
 /*!* centered columns styles *!*/
 /*.row-centered {*/
@@ -192,15 +206,6 @@
     /*display:table-cell;*/
     /*vertical-align:middle;*/
 /*}*/</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZS1sYXlvdXQ6IGF1dG87CiAgICAgICAgZmxvYXQ6IG5vbmU7CiAgICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgYXV0bzsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZTsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
