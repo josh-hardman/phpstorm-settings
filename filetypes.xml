@@ -14,6 +14,7 @@
       <mapping pattern="create_workflow_tables.sql" type="PLAIN_TEXT" />
       <mapping pattern="daily_idi_timecards" type="PLAIN_TEXT" />
       <mapping pattern="DR - employee_hours" type="SQL" />
+      <mapping pattern="mini_shifts_test" type="SQL" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="DR_get_employee_hours" type="SQL" />
       <mapping pattern="daily_timecards" type="SQL" />
