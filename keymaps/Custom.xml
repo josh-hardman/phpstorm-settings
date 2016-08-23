@@ -2,9 +2,11 @@
   <action id="ActivateDatabaseConsoleToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta enter" />
   </action>
+  <action id="DBNavigator.Actions.Execute" />
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
