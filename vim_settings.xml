@@ -3,6 +3,56 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" timestamp="1471660728023">
+        <mark key="'" line="94" column="1" />
+        <mark key="[" line="167" column="15" />
+        <mark key="]" line="167" column="15" />
+        <mark key="." line="167" column="15" />
+        <mark key="^" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/sites/legacy/app/Http/routes.php" timestamp="1471793314614">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/portfolio_category.blade.php" timestamp="1471825075793">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" timestamp="1471792602461">
+        <mark key="'" line="53" column="29" />
+        <mark key="." line="53" column="33" />
+      </file>
+      <file name="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" timestamp="1471793214954">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+      </file>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/portfolio.blade.php" timestamp="1471664139044">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/navbar.blade.php" timestamp="1471660684108">
+        <mark key="[" line="30" column="100" />
+        <mark key="]" line="30" column="104" />
+        <mark key="." line="30" column="104" />
+      </file>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/app/Http/routes.php" timestamp="1471664875287">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/resources/views/welcome.blade.php" timestamp="1471574952232">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+      </file>
       <file name="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" timestamp="1471031902933">
         <mark key="b" line="64" column="37" />
         <mark key="t" line="64" column="37" />
@@ -43,39 +93,187 @@
       <jump line="275" column="8" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
       <jump line="316" column="6" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
       <jump line="237" column="24" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
+      <jump line="45" column="19" filename="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" />
+      <jump line="87" column="1" filename="$USER_HOME$/www/sites/jenlarissaphoto/public/css/custom.css" />
+      <jump line="62" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="89" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="64" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="40" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/sites/legacy/resources/views/goals/view_goals.blade.php" />
+      <jump line="112" column="34" filename="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" />
+      <jump line="12" column="4" filename="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" />
+      <jump line="53" column="29" filename="$USER_HOME$/www/sites/legacy/app/Http/Controllers/GoalsController.php" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQllaC5iZWdpbl9kYXRldGltZSBCRVRXRUVOIFwnJyAuICRzdHJTdGFydERhdGUgLiAnXCc6OmRhdGUgLSBJTlRFUlZBTCBcJzEgd2Vla1wnIEFORCBcJycgLiAkc3RyRW5kRGF0ZSAuICdcJzo6ZGF0ZSArIElOVEVSVkFMIFwnMSB3ZWVrXCcgCg==</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">U0VMRUNUCgkJCSAgaWQsCgkJCSAgZW1wbG95ZWVfaWQsCgkJCSAgc3RhdHVzLAoJCQkgIGVtcGxveWVlX2hvdXJfdHlwZV9pZCwJCQkgIAoJCQkgIGJlZ2luX2RhdGV0aW1lLAoJCQkgIGVuZF9kYXRldGltZSwKCQkJICBkYXRlCgkJCUZST00KCQkJICAoCgkJCQlTRUxFQ1QKCQkJCSAgaWQsCgkJCQkgIGVtcGxveWVlX2lkLAoJCQkJICBzdGF0dXMsCgkJCQkgIGVtcGxveWVlX2hvdXJfdHlwZV9pZCwKCQkJCSAgYmVnaW5fZGF0ZXRpbWUsCgkJCQkgIENBU0UgV0hFTiBlbmRfZGF0ZXRpbWUgSVMgTlVMTCBBTkQgY29tYmluZV93aXRoX25leHQgPSAxIFRIRU4gbGVhZCggZW5kX2RhdGV0aW1lLCAxICkgT1ZFUiggUEFSVElUSU9OIEJZIHN1Yi5lbXBsb3llZV9pZCBPUkRFUiBCWSBzdWIuaWQgKSBFTFNFIGVuZF9kYXRldGltZSBFTkQgQVMgZW5kX2RhdGV0aW1lLAoJCQkJICBkYXRlCgkJCQlGUk9NICgKCQkJCSAgU0VMRUNUCgkJCQkJZWguaWQsCgkJCQkJZWguZW1wbG95ZWVfaWQsCgkJCQkJZWguZW1wbG95ZWVfaG91cl90eXBlX2lkLAoJCQkJCUNBU0UgV0hFTiBsYWcgKCBlaC5lbmRfZGF0ZXRpbWUsIDEgKSBPVkVSICggUEFSVElUSU9OIEJZIGVoLmVtcGxveWVlX2lkIE9SREVSIEJZIGVoLmlkICkgKyBJTlRFUlZBTCBcJzMgbWludXRlc1wnID49IGVoLmJlZ2luX2RhdGV0aW1lIFRIRU4gTlVMTCBFTFNFIGVoLmJlZ2luX2RhdGV0aW1lIEVORCBBUyBiZWdpbl9kYXRldGltZSwKCQkJCQlDQVNFIFdIRU4gbGVhZCAoIGVoLmJlZ2luX2RhdGV0aW1lLCAxICkgT1ZFUiAoIFBBUlRJVElPTiBCWSBlaC5lbXBsb3llZV9pZCBPUkRFUiBCWSBlaC5pZCApIC0gSU5URVJWQUwgXCczIG1pbnV0ZXNcJyA8PSBlaC5lbmRfZGF0ZXRpbWUgVEhFTiBOVUxMIEVMU0UgZWguZW5kX2RhdGV0aW1lIEVORCBBUyBlbmRfZGF0ZXRpbWUsCgkJCQkJQ0FTRSBXSEVOIGxlYWQgKCBlaC5iZWdpbl9kYXRldGltZSwgMSApIE9WRVIgKCBQQVJUSVRJT04gQlkgZWguZW1wbG95ZWVfaWQgT1JERVIgQlkgZWguaWQgKSAtIElOVEVSVkFMIFwnMyBtaW51dGVzXCcgPD0gZWguZW5kX2RhdGV0aW1lIFRIRU4gMSBFTFNFIDAgRU5EIEFTIGNvbWJpbmVfd2l0aF9uZXh0LAoJCQkJCWVoLmRhdGUsCgkJCQkJZWh0Lm5hbWUgYXMgc3RhdHVzCgkJCQkgIEZST00KCQkJCQllbXBsb3llZV9ob3VycyBlaAoJCQkJCUpPSU4gZW1wbG95ZWVfaG91cl90eXBlcyBlaHQgT04gZWh0LmlkID0gZWguZW1wbG95ZWVfaG91cl90eXBlX2lkCgkJCQkgIFdIRVJFCgkJCQkgIAoJCQkJICBPUkRFUiBCWQoJCQkJCWVoLmlkCgkJCQkpIHN1YgoJCQkJV0hFUkUKCQkJCSAgQ09BTEVTQ0UoIHN1Yi5iZWdpbl9kYXRldGltZSwgc3ViLmVuZF9kYXRldGltZSApIElTIE5PVCBOVUxMCgkJCSAgKSBzdWIyCgkJCVdIRVJFCgkJCSAgc3ViMi5iZWdpbl9kYXRldGltZSBJUyBOT1QgTlVMTAoJCQlPUkRFUiBCWQoJCQkgIGlkOw==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQllaC5iZWdpbl9kYXRldGltZSBCRVRXRUVOIFwnJyAuICRzdHJTdGFydERhdGUgLiAnXCc6OmRhdGUgLSBJTlRFUlZBTCBcJzEgd2Vla1wnIEFORCBcJycgLiAkc3RyRW5kRGF0ZSAuICdcJzo6ZGF0ZSArIElOVEVSVkFMIFwnMSB3ZWVrXCcgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkkb2JqVGl0bGVDb21wb25lbnQtPnNldFRpdGxlKCAnRGFpbHkgSURJIFRpbWVjYXJkcycgKTsK</text>
-      </register>
-      <register name=":" type="4">
-        <text>10</text>
+        <text>goals/set_sub_goal/{goal}</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>goals/set_sub_goal/{goal}</text>
+      </register>
+      <register name="/" type="4">
+        <text>^{</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ClJvdXRlOjpnZXQoJy9wb3J0Zm9saW8nLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gdmlldygncG9ydGZvbGlvJyk7Cn0pOw==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+T3RoZXJzPC9wPgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+RmFtaWx5PC9wPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+RW5nYWdlbWVudHM8L3A+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbjogNTBweCBhdXRvOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>.centered{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cgo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>*!*Centered grid*!*/
+/*!* centered columns styles *!*/
+/*.row-centered {*/
+    /*text-align:center;*/
+/*}*/
+/*.col-centered {*/
+    /*display:inline-block;*/
+    /*float:none;*/
+    /*!* reset the text-align *!*/
+    /*text-align:left;*/
+    /*!* inline-block space fix *!*/
+    /*margin-right:-4px;*/
+/*}*/
+/*.col-fixed {*/
+    /*!* custom width *!*/
+    /*width:320px;*/
+/*}*/
+/*.col-min {*/
+    /*!* custom min width *!*/
+    /*min-width:320px;*/
+/*}*/
+/*.col-max {*/
+    /*!* custom max width *!*/
+    /*max-width:320px;*/
+/*}*/
+
+/*!* visual styles *!*/
+/*body {*/
+    /*padding-bottom:40px;*/
+/*}*/
+/*h1 {*/
+    /*margin:40px 0px 20px 0px;*/
+	/*color:#95c500;*/
+    /*font-size:28px;*/
+    /*line-height:34px;*/
+    /*text-align:center;*/
+/*}*/
+/*[class*=&quot;col-&quot;] {*/
+    /*padding-top:10px;*/
+    /*padding-bottom:15px;*/
+	/*border:1px solid #80aa00;*/
+	/*background:#d6ec94;*/
+/*}*/
+/*[class*=&quot;col-&quot;]:before {*/
+    /*display:block;position:relative;*/
+    /*margin-bottom:8px;*/
+	/*font-family:sans-serif;*/
+	/*font-size:10px;*/
+    /*letter-spacing:1px;*/
+    /*color:#658600;*/
+    /*text-align:left;*/
+/*}*/
+/*.item {*/
+    /*width:100%;*/
+    /*height:100%;*/
+	/*border:1px solid #cecece;*/
+    /*padding:16px 8px;*/
+	/*background:#ededed;*/
+	/*background:-webkit-gradient(linear, left top, left bottom,color-stop(0%, #f4f4f4), color-stop(100%, #ededed));*/
+	/*background:-moz-linear-gradient(top, #f4f4f4 0%, #ededed 100%);*/
+	/*background:-ms-linear-gradient(top, #f4f4f4 0%, #ededed 100%);*/
+/*}*/
+
+/*!* content styles *!*/
+/*.item {*/
+	/*display:table;*/
+/*}*/
+/*.content {*/
+	/*display:table-cell;*/
+	/*vertical-align:middle;*/
+	/*text-align:center;*/
+/*}*/
+/*.content:before {*/
+    /*font-family:sans-serif;*/
+    /*font-size:12px;*/
+    /*letter-spacing:1px;*/
+    /*color:#747474;*/
+/*}*/
+
+/*!* centering styles for jsbin *!*/
+/*html,*/
+/*body {*/
+    /*width:100%;*/
+    /*height:100%;*/
+/*}*/
+/*html {*/
+    /*display:table;*/
+/*}*/
+/*body {*/
+    /*display:table-cell;*/
+    /*vertical-align:middle;*/
+/*}*/</text>
+      </register>
+      <register name=":" type="4">
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>^{</last-search>
+      <last-offset />
+      <last-pattern>^{</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>slideshow</entry>
+        <entry>#slideshow</entry>
+        <entry>^{</entry>
+      </history-search>
       <history-cmd>
         <entry>0</entry>
         <entry>10</entry>
+        <entry>w</entry>
+        <entry>%y</entry>
+        <entry>$</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
