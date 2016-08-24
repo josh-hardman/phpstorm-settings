@@ -6,6 +6,10 @@
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
@@ -24,6 +28,7 @@
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="Move" />
+  <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
@@ -50,5 +55,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
 </keymap>
