@@ -64,13 +64,12 @@
         <mark key="." line="255" column="16" />
         <mark key="^" line="315" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bbbdff0f-5d9a-4c22-971b-5ba0614ebe0f/console.sql" timestamp="1471466762427">
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="4" />
-        <mark key="^" line="35" column="4" />
-        <mark key="." line="35" column="4" />
+      <file name="$USER_HOME$/www/sites/jenlarissaphoto/app/Http/Controllers/portfolioController.php" timestamp="1471976977694">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Reports/Accounting/CCheckLookupReportManager.class.php" timestamp="1471552611332" />
     </filemarks>
     <jumps>
       <jump line="60" column="0" filename="$USER_HOME$/svn/PsCore/trunk/Applications/ClientAdmin/Application/Accounting/Reports/CIdiTimecardReportManager.class.php" />
@@ -115,10 +114,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>goals/set_sub_goal/{goal}</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>goals/set_sub_goal/{goal}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>^{</text>
