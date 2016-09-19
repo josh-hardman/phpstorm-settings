@@ -10,6 +10,7 @@
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping pattern="back_billing" type="DBN-SQL" />
       <mapping pattern="duplicate_charges_optimized_query" type="DBN-SQL" />
       <mapping pattern="query_duplicate_charges" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
