@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="df21558c-b9a6-4396-b931-29d3ba61eccf" name="IMC Production" url="http://ftp.independentmarketerscoalition.com">
-        <fileTransfer host="ftp.independentmarketerscoalition.com" port="21">
+        <fileTransfer host="ftp.independentmarketerscoalition.com" port="21" rootFolder="/public_html/wp-content/themes">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,5 +10,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAA0HukAwTRzJ8iwCBI5yq93+XeWqReSs3CFbA7xpf4/N00H5v8hRbyaxR8GnrFgCR+owM8EIAnJkb4bwqrMh0nvzNuBf0TuZFym3rJM/H6QDfaD2MsJb+8IoP7PV7GsRRz9eSKvSg9cfg7ddfolIDU0nmPFFoyRhwOLXxyQ8j12rkRuZAMjBVReAA4dJ2qrzHxaRTtLSpTa142mqYS+ubV7NKn0ZwMgdbcnw9JUlwyxAq2yQeXLXVv3nPNQm8puA/pWiTkEVB0PZoNxwx4qGJMly1/c/zcCrkYWJlbYZDIXU4B</data>
   </component>
 </application>
