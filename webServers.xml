@@ -9,9 +9,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="1d02fb33-2f7c-4e2b-9e9d-7e521fa067d2" name="IMC_production" url="http://ftp.independentmarketerscoalition.com">
+        <fileTransfer host="ftp.independentmarketerscoalition.com" port="21" rootFolder="/public_html/wp-content">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAA0E4pmYV9SQJn9zIzhB7CIbKfNwjF/g4+CNcIWw9n18RJbYqF6fE5b0KUpm1J3be/5+NAbUVTsOVXVPZ5e90AafjwQtSkBM3HwSosTnIKBrCHMr9t1Qd4QqJhRJTRZeb0SCEnovGb7w9T96ScNhgr6cEtimgtMGdvglFfYOEtIyNKiuqqPJdNaJ9+csF/P9sTeHCiNngT+S7KSngbeNZARGuq2QD+PY9b2zt/ldEcX3W8gmC64p3p0IfxpyWZFjN4s6sf81jOFr9tmduuEmXsxIrI6KVyL4Za07rDPVF8Ld5a</data>
+    <data>AAABYL/7+XJBXe42ex7BrBLb7u1chkaNIzjmNx1CGNpk9QKgeGggh2ZoxjonJXm/Slpu+WdIB2C2IM0IfBAKpJ5Ol2K2t9wIdnyA2wdOlsuFgwtQ4Hu7jhySmGK4km1ggRPoJAVNvqRqowCiczHqt6k6BAoAvpCdEkpDzVVYDlW1UOAqVtN3dD5wv66T47zwIEZx7R/WmmL9BA+QoVp1V5znSqaCqkfwaaKO5HrrrBpaNcqDpxe+7fTSxru0KW1jJUN2qKFLvS/ElT1cjocsVmWIAxCBkP0EW1MAftGboEi6CNm906h3ujvXM/4FjoE5qCz9ZxkGZFdMxLik7cpqEgnbOQ2+UMobaH9Hwus1vMU8MNXK8jPet40yUvy6D+2fGRqOLiE/pyLYV9GC4t7kX7JNFT5/cjRElQ19zTir/KDxUxNJpLl0+i5/Ax1fLpi2Y6plQ69AkylQ58G0uU3tDmKUvVtnF/IpQzJ/eeKCL1omx2tk</data>
   </component>
 </application>
