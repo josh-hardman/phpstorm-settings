@@ -15,6 +15,7 @@
       <mapping pattern="back_billing" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="daily_idi_timecards" type="PLAIN_TEXT" />
+      <mapping pattern="dasf" type="PLAIN_TEXT" />
       <mapping pattern="create_workflow_tables.sql" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="set_setting_as_templatable" type="SQL" />
