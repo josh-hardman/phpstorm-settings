@@ -27,6 +27,7 @@
       <mapping pattern="back" type="SQL" />
       <mapping pattern="Query" type="SQL" />
       <mapping pattern="insert_employee_hours" type="SQL" />
+      <mapping pattern="pre_billing_query" type="SQL" />
       <mapping pattern="query" type="SQL" />
       <mapping pattern="back_billin" type="SQL" />
       <mapping pattern="query_duplicate_charges.sql" type="Twig" />
