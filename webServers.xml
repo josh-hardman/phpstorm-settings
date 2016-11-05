@@ -17,9 +17,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="9bace906-9091-4998-b96b-ca22941e30c2" name="IMC_Freelancer_workbench" url="http://ftp.independentmarketerscoalition.com">
+        <fileTransfer host="ftp.independentmarketerscoalition.com" port="21" rootFolder="/public_html/freelancer_office">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABYOiKbrtea2qdnzzU3GVQ2XyhYjQD6lsYFEdODYlhlrkgCNHyT4I47m2Q3Yce2jznNucTv6TMlv2VILe6oMQJfiT6gedDHtQtS7/HSZmL0/utIY05Ji0YU92Lf0tJ/W1puxerujpXnPCS04ckAR0tjK8Jah1p/EV9S2ilRq+CWwuxc0JtllAllRJHUfiASXpyucEFJ2ardzTRJl7DIwGrjBOqWRHsj1xZ/5N0gdiQUF4dSbJE/iyERf9+kCoHUwoT9WZiU7Ru2cs9whsBSBB872AU/4d8uKR42NzOnr/xx4Ipw/qpq8X4mZLESK8UjrDooY43/BMNLMH4aYwEAeMbl4FQeTHikTZZUq1KpwN4ppsmfaFel5LLH6joNpps4WVXkow4eO7JrC4nKJzy7SWLolJQ8qboFfL7v2B/0Tp8tFdCa+ttAHtqO5zdYWefnfuULCdLvq6H6pN6QIVSq8TRIsTAhk0Ly8JEGRzkQs542VQK</data>
+    <data>AAAB8P5TfCUJbonFqVbmfnrftseF1A7tGOtlXqBPE42cmOw7qLafEc0wW1XvPPNHNlIt0NGGZek2G5s+W7eEOE6yJf82fJH0Og8DeEf43/MCqpRJzpkDHLzcCbd8kjltgJfRKUsz6tn1J3MCLeAjXFnxoIrf2qHHyw+Cgil5pob4ut/FTpZItiIIN94c3eAjs7adxef5dzBaOOedvshYaL65UvBigrZKJPjT9pEEBXTO+IjNP5ado6lsOX1qhWh/nPZQ3WpWObgBTteq+5FS0/T4LPasNmgNRYl90AWu3Na5ICgg8TyeCK9qOvWwBZATpuhhpMb9ane+4KtQm9dCIABQ42XChEh4+OPgYISVPRFgg6W5c67QaYmZX/N6okUBgL75aqzKdrbeg35gjMyvcrzvjn3Pk8uy0YjUUKJm8WnmMj8Bbs4IFMhQ1+/VN3bv26kbvmD8zGWLMSDFviXrF/tHl6OfDcaId7+Drr3si0dHFnYs0fOTT3aAZzXgAiaDgmFk1GsNdtpJYunGUwBybwkE1DBSFdGaUIU3uqHm7Tmx/TUHcNxEgHrLS0unWDq3fDNHSqsKvuLyAYjlcPI+KzsQm0huqb1tt35YvqwfRy4QDGTXSw+zpthadQJbDhd8ELn8CkSt8V6jVx5qHFLsJyyOaEDzmSUdhWhHp7sgyzPyc/A9</data>
   </component>
 </application>
