@@ -1,0 +1,33 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df21558c-b9a6-4396-b931-29d3ba61eccf" name="IMC Production" url="http://ftp.independentmarketerscoalition.com">
+        <fileTransfer host="ftp.independentmarketerscoalition.com" port="21" rootFolder="/public_html/wp-content/themes">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1d02fb33-2f7c-4e2b-9e9d-7e521fa067d2" name="IMC_production" url="http://ftp.independentmarketerscoalition.com">
+        <fileTransfer host="ftp.independentmarketerscoalition.com" port="21" rootFolder="/public_html/wp-content">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9bace906-9091-4998-b96b-ca22941e30c2" name="IMC_Freelancer_workbench" url="http://ftp.independentmarketerscoalition.com">
+        <fileTransfer host="ftp.independentmarketerscoalition.com" port="21" rootFolder="/public_html/freelancer_office">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAB8FJj0ULuvylvRuBLv2oEuyc8ie1l1jDyEVGN3JtjmtL5fpKtLKVLpG1x/P2r+pRcuFRjsTdTeCI6uYLFpAWsesznxHFMrqyoNvs4lRw6T8M9Qk789laqoOTGX3ELmKbGjpzbV4NmvT3WVs7HY8UBGSndmqwZhqjjiWq+56+jF/PmNg/ay2Y0wPpprfPEYXiAjoALWjOWW4dkOzi7pfVNAngUNfpsSRiTjN24XnxvyAmFeZEut6cn/LeG9Us4XmEuJcG3o1wbSb1dBRxrVRvb6mOWcPPNtK5dAIF2BCnWqflSRR0EtGW98mfvIeTC0G7wsQ6kSdDmvtBx4klxFDJ7RCYTM+PX1AhSzgoAodR+YMqokZzhbCafRsKNv99iLg/bUoXKMIj3NNuDFT6wV7jJ9pMs5q+6V2DUCd+H6Q3vipvTWf35sIbY+RJFNuqgVQNjbw6n7uateLTt/L1l4iur9RJnpkbCKtFBsAt1q2cT3FSLxHSdsD0lhciXVLU07ARn7iij9i385+gN4vCKkNolj1PCqp79em0rLDZO/Kvpuy8w2EO/09Rz35eTrLfcGl88v0C6AzkEdmPvPItC0/aqqdbHOpAQBgyyiDSreQgLuMyNTjQ5ZuHfr9lk+7O4hSZb/ZzEcHiRfWBj7+7Ul0MnyhVUzJ9TSyzv9Qjfwrhd8of/</data>
+  </component>
+</application>
