@@ -16,6 +16,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="create_workflow_tables.sql" type="PLAIN_TEXT" />
       <mapping pattern="daily_idi_timecards" type="PLAIN_TEXT" />
+      <mapping pattern="dasf" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="set_setting_as_templatable" type="SQL" />
       <mapping pattern="mini_shifts_test" type="SQL" />
@@ -25,6 +26,9 @@
       <mapping pattern="back" type="SQL" />
       <mapping pattern="Query" type="SQL" />
       <mapping pattern="insert_employee_hours" type="SQL" />
+      <mapping pattern="test4" type="SQL" />
+      <mapping pattern="pre_billing_query" type="SQL" />
+      <mapping pattern="query" type="SQL" />
       <mapping pattern="back_billin" type="SQL" />
       <mapping pattern="optimized_duplicate_charges" type="SQL" />
       <mapping pattern="query_duplicate_charges.sql" type="Twig" />
