@@ -14,25 +14,26 @@
       <mapping pattern="query_duplicate_charges" type="DBN-SQL" />
       <mapping pattern="back_billing" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="create_workflow_tables.sql" type="PLAIN_TEXT" />
       <mapping pattern="daily_idi_timecards" type="PLAIN_TEXT" />
       <mapping pattern="dasf" type="PLAIN_TEXT" />
+      <mapping pattern="create_workflow_tables.sql" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="set_setting_as_templatable" type="SQL" />
       <mapping pattern="mini_shifts_test" type="SQL" />
       <mapping pattern="assign_charges_to_system" type="SQL" />
-      <mapping pattern="build_cached_ar_risks_table" type="SQL" />
       <mapping pattern="DR_get_employee_hours" type="SQL" />
+      <mapping pattern="optimized_duplicate_charges" type="SQL" />
+      <mapping pattern="build_cached_ar_risks_table" type="SQL" />
       <mapping pattern="generate_tables" type="SQL" />
       <mapping pattern="daily_timecards" type="SQL" />
       <mapping pattern="DR - employee_hours" type="SQL" />
       <mapping pattern="Query" type="SQL" />
+      <mapping pattern="property_transfer" type="SQL" />
       <mapping pattern="insert_employee_hours" type="SQL" />
       <mapping pattern="test4" type="SQL" />
       <mapping pattern="pre_billing_query" type="SQL" />
       <mapping pattern="query" type="SQL" />
       <mapping pattern="back_billin" type="SQL" />
-      <mapping pattern="optimized_duplicate_charges" type="SQL" />
       <mapping pattern="back" type="SQL" />
       <mapping pattern="query_duplicate_charges.sql" type="Twig" />
     </extensionMap>
