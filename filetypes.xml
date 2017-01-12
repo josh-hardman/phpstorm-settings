@@ -32,6 +32,7 @@
       <mapping pattern="insert_employee_hours" type="SQL" />
       <mapping pattern="test4" type="SQL" />
       <mapping pattern="pre_billing_query" type="SQL" />
+      <mapping pattern="property_transfer_details" type="SQL" />
       <mapping pattern="query" type="SQL" />
       <mapping pattern="back_billin" type="SQL" />
       <mapping pattern="back" type="SQL" />
