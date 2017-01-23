@@ -27,6 +27,7 @@
       <mapping pattern="optimized_duplicate_charges" type="SQL" />
       <mapping pattern="build_cached_ar_risks_table" type="SQL" />
       <mapping pattern="generate_tables" type="SQL" />
+      <mapping pattern="add_data" type="SQL" />
       <mapping pattern="daily_timecards" type="SQL" />
       <mapping pattern="DR - employee_hours" type="SQL" />
       <mapping pattern="Query" type="SQL" />
