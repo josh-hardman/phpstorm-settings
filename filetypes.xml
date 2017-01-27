@@ -34,6 +34,7 @@
       <mapping pattern="add_dummy_requests" type="SQL" />
       <mapping pattern="Query" type="SQL" />
       <mapping pattern="property_transfer" type="SQL" />
+      <mapping pattern="sql_basics_certification_exam" type="SQL" />
       <mapping pattern="insert_employee_hours" type="SQL" />
       <mapping pattern="test4" type="SQL" />
       <mapping pattern="pre_billing_query" type="SQL" />
