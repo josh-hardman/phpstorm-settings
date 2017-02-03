@@ -23,6 +23,7 @@
       <mapping pattern="set_setting_as_templatable" type="SQL" />
       <mapping pattern="mini_shifts_test" type="SQL" />
       <mapping pattern="assign_charges_to_system" type="SQL" />
+      <mapping pattern="populate_client_transfers" type="SQL" />
       <mapping pattern="add_company_request_type_data" type="SQL" />
       <mapping pattern="DR_get_employee_hours" type="SQL" />
       <mapping pattern="optimized_duplicate_charges" type="SQL" />
