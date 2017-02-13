@@ -43,6 +43,7 @@
       <mapping pattern="insert_property_transfer_record" type="SQL" />
       <mapping pattern="property_transfer_details" type="SQL" />
       <mapping pattern="query" type="SQL" />
+      <mapping pattern="add_task_id_property_transfers" type="SQL" />
       <mapping pattern="back_billin" type="SQL" />
       <mapping pattern="transfer_property" type="SQL" />
       <mapping pattern="transfer_property_tool_add_new" type="Smarty" />
