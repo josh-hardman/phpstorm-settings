@@ -47,6 +47,7 @@
       <mapping pattern="back_billin" type="SQL" />
       <mapping pattern="transfer_property" type="SQL" />
       <mapping pattern="transfer_property_tool_add_new" type="Smarty" />
+      <mapping pattern="add_transfer_property_tool" type="Smarty" />
       <mapping pattern="query_duplicate_charges.sql" type="Twig" />
     </extensionMap>
   </component>
