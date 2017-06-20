@@ -6,6 +6,12 @@
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="DBNavigator.Actions.Execute" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
